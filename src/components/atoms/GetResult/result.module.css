@@ -1,0 +1,12 @@
+.btn{
+    width: 10rem;
+    height: 2rem;
+    box-shadow: 2px 2px 10px 1px #7d7676;
+    margin: 1rem;
+    height: 2.5rem;
+    border: none;
+    cursor: pointer;
+    font-size: large;
+    background-color: lightskyblue;
+
+}
